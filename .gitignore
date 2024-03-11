@@ -33,6 +33,7 @@ Saved
 *.app
 *.ipa
 *.VC.opendb
+*.env
 SourceArt/**/*.png
 SourceArt/**/*.tga
 Binaries/*
