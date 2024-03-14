@@ -1,4 +1,4 @@
-// Fill out your copyright notice in the Description page of Project Settings.
+// This capstone project was developed by Aymen Hammami - 2024
 
 #pragma once
 
