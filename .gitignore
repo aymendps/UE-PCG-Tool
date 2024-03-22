@@ -35,6 +35,7 @@ Saved
 *.VC.opendb
 *.env
 *.env.ini
+SecretKeys.ini
 SourceArt/**/*.png
 SourceArt/**/*.tga
 Binaries/*
